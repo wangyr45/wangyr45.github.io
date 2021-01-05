@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://wangyurui.cn</id>
+    <id>https://greatmaster.club</id>
     <title>王誉睿的时光相册</title>
-    <updated>2021-01-05T14:46:40.721Z</updated>
+    <updated>2021-01-05T14:47:34.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://wangyurui.cn"/>
-    <link rel="self" href="https://wangyurui.cn/atom.xml"/>
+    <link rel="alternate" href="https://greatmaster.club"/>
+    <link rel="self" href="https://greatmaster.club/atom.xml"/>
     <subtitle>记录时光，感受真实</subtitle>
-    <logo>https://wangyurui.cn/images/avatar.png</logo>
-    <icon>https://wangyurui.cn/favicon.ico</icon>
+    <logo>https://greatmaster.club/images/avatar.png</logo>
+    <icon>https://greatmaster.club/favicon.ico</icon>
     <rights>All rights reserved 2021, 王誉睿的时光相册</rights>
     <entry>
         <title type="html"><![CDATA[姑苏观雨]]></title>
-        <id>https://wangyurui.cn/post/gu-su-guan-yu/</id>
-        <link href="https://wangyurui.cn/post/gu-su-guan-yu/">
+        <id>https://greatmaster.club/post/gu-su-guan-yu/</id>
+        <link href="https://greatmaster.club/post/gu-su-guan-yu/">
         </link>
         <updated>2021-01-05T13:33:06.000Z</updated>
         <content type="html"><![CDATA[<p>姑苏观雨</p>
@@ -21,8 +21,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[观云]]></title>
-        <id>https://wangyurui.cn/post/guan-yun/</id>
-        <link href="https://wangyurui.cn/post/guan-yun/">
+        <id>https://greatmaster.club/post/guan-yun/</id>
+        <link href="https://greatmaster.club/post/guan-yun/">
         </link>
         <updated>2021-01-05T13:32:29.000Z</updated>
         <content type="html"><![CDATA[<p>观云</p>
@@ -30,8 +30,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[眺望]]></title>
-        <id>https://wangyurui.cn/post/tiao-wang/</id>
-        <link href="https://wangyurui.cn/post/tiao-wang/">
+        <id>https://greatmaster.club/post/tiao-wang/</id>
+        <link href="https://greatmaster.club/post/tiao-wang/">
         </link>
         <updated>2021-01-05T13:30:37.000Z</updated>
         <content type="html"><![CDATA[<p>眺望</p>
@@ -39,8 +39,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[上海]]></title>
-        <id>https://wangyurui.cn/post/shang-hai/</id>
-        <link href="https://wangyurui.cn/post/shang-hai/">
+        <id>https://greatmaster.club/post/shang-hai/</id>
+        <link href="https://greatmaster.club/post/shang-hai/">
         </link>
         <updated>2021-01-05T13:30:13.000Z</updated>
         <content type="html"><![CDATA[<p>上海</p>
@@ -48,8 +48,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Mexico]]></title>
-        <id>https://wangyurui.cn/post/mexico/</id>
-        <link href="https://wangyurui.cn/post/mexico/">
+        <id>https://greatmaster.club/post/mexico/</id>
+        <link href="https://greatmaster.club/post/mexico/">
         </link>
         <updated>2021-01-05T13:29:43.000Z</updated>
         <content type="html"><![CDATA[<p>Mexico</p>
@@ -57,8 +57,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[上海]]></title>
-        <id>https://wangyurui.cn/post/nan-wang-de-yi-ci-nong-jia-le/</id>
-        <link href="https://wangyurui.cn/post/nan-wang-de-yi-ci-nong-jia-le/">
+        <id>https://greatmaster.club/post/nan-wang-de-yi-ci-nong-jia-le/</id>
+        <link href="https://greatmaster.club/post/nan-wang-de-yi-ci-nong-jia-le/">
         </link>
         <updated>2021-01-05T13:27:28.000Z</updated>
         <content type="html"><![CDATA[<p>上海</p>
@@ -66,8 +66,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[非物质/再物质：计算机艺术简史]]></title>
-        <id>https://wangyurui.cn/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/</id>
-        <link href="https://wangyurui.cn/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/">
+        <id>https://greatmaster.club/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/</id>
+        <link href="https://greatmaster.club/post/fei-wu-zhi-zai-wu-zhi-ji-suan-ji-yi-zhu-jian-shi/">
         </link>
         <updated>2021-01-05T12:59:58.000Z</updated>
         <content type="html"><![CDATA[<p>北京展览——非物质/再物质：计算机艺术简史</p>
@@ -75,8 +75,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[新海诚画展]]></title>
-        <id>https://wangyurui.cn/post/xin-hai-cheng-hua-zhan/</id>
-        <link href="https://wangyurui.cn/post/xin-hai-cheng-hua-zhan/">
+        <id>https://greatmaster.club/post/xin-hai-cheng-hua-zhan/</id>
+        <link href="https://greatmaster.club/post/xin-hai-cheng-hua-zhan/">
         </link>
         <updated>2018-11-28T13:28:04.000Z</updated>
         <content type="html"><![CDATA[<p>新海诚画展</p>
